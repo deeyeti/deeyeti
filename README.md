@@ -40,9 +40,6 @@
 ---
 
 ## ⚔️ Competitive Programming
-
-- 🟡 CodeChef: **1438**
-- 🔵 Codeforces: **947**
 - 📈 Actively improving problem-solving, DSA & algorithms
 
 ---
