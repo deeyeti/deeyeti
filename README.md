@@ -14,9 +14,7 @@
 
 - 🎓 Computer Science student at **IIIT Pune**
 - 🔐 Currently learning **Cybersecurity & Systems**
-- 🏆 Competitive programmer:
-  - ⭐ CodeChef: **1438**
-  - ⚡ Codeforces: **947**
+- 🏆 Competitive programmer
 - 🛠️ Love building:
   - Web projects  
   - Systems stuff  
