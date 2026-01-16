@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**deeyeti/deeyeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm a Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Building cool stuff • 🧠 Learning cybersecurity & systems • 💻 Competitive programming • 🎨 Into creative tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0BA5CD&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Competitive+Programmer;Builder+of+Cool+Things" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Computer Science student at **IIIT Pune**
+- 🔐 Currently learning **Cybersecurity & Systems**
+- 🏆 Competitive programmer:
+  - ⭐ CodeChef: **1438**
+  - ⚡ Codeforces: **947**
+- 🛠️ Love building:
+  - Web projects  
+  - Systems stuff  
+  - Creative tech & interactive experiences  
+- 🎮 Into tech experiments, performance hacks & fun side projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-11273a?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-0ba5cd?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-f89e1b?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ee4c23?style=for-the-badge&logo=javascript&logoColor=white)
+
+### 🌐 Web & Tools
+![React](https://img.shields.io/badge/-React-0ba5cd?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node-11273a?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f89e1b?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-ee4c23?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## ⚔️ Competitive Programming
+
+- 🟡 CodeChef: **1438**
+- 🔵 Codeforces: **947**
+- 📈 Actively improving problem-solving, DSA & algorithms
+
+---
+
+## 🔬 Current Focus
+
+- 🔐 Cybersecurity & low-level systems
+- ⚙️ Backend + systems programming
+- 🎨 High-quality UI, animations & creative coding
+- 🧠 DSA for competitive programming & interviews
+
+---
+
+## 🚀 Some Things I Like Building
+
+- 🕹️ Interactive websites & experiments  
+- 🔧 Systems & performance-related projects  
+- 📦 Tools that automate or simplify stuff  
+- 🧪 Weird but fun technical experiments  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌌 Philosophy
+
+> *"Build. Break. Learn. Repeat."*
+
+---
+
+<div align="center">
+
+### ⚡ Always building something. Always learning something.
+
+</div>
