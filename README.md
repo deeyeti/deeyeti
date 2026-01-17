@@ -60,16 +60,6 @@
 - 📦 Tools that automate or simplify stuff  
 - 🧪 Weird but fun technical experiments  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160" />
-
-</div>
 
 ---
 
